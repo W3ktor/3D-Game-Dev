@@ -54,7 +54,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\BallMovement.cs" />
+     <Compile Include="Assets\Scripts\CameraSmoothFollowScript.cs" />
      <Compile Include="Assets\Scripts\Movement.cs" />
+     <Compile Include="Assets\Scripts\PlayerAgentScript.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>F:/Unity/2018/3D GameDev/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
